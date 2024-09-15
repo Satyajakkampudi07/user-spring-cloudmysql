@@ -31,12 +31,6 @@
    mvn spring-boot:run
    ```
 
-   If using Gradle:
-
-   ```bash
-   ./gradlew bootRun
-   ```
-
 **Test the Endpoints**
 
    - **Add a User**
